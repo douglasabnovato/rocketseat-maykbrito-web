@@ -20,10 +20,18 @@ Desenvolvimento Web
 - [x] 2. 1. Instalar o VSCode
 - [x] 2. 2. Instalar o Node.js - Versão LTS v12.18.0 - v13.2.0
 - [x] 2. 3. Instalar o Google Chrome
-- [ ] 3. Front-End e Back-End 
-- [ ] 3. 1. Imagina que ...
-- [ ] 3. 2. Como é feita a comunicação ?
-- [ ] 3. 3. Tecnologias 
+- [x] 3. Front-End e Back-End 
+- [x] 3. 1. Imagina que ...
+- [x] 3. 1. 1. Cliente chama, servidor escuta e responde
+- [x] 3. 2. Como é feita a comunicação ?
+- [x] 3. 2. 1. HTTP - HyperText Transfer Protocol
+- [x] 3. 2. 2. URL - Localização universal 
+- [x] 3. 2. 3. Troca de dados - pedido e resposta 
+- [x] 3. 3. Tecnologias 
+- [x] 3. 3. 1. Html - Estrutura 
+- [x] 3. 3. 2. CSS - Estilização
+- [x] 3. 3. 3. Javascript - Regras de Negócio
+
 
 #### Comentários no decorrer da implementação
 1. 
