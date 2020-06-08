@@ -2,13 +2,15 @@
 
 Desenvolver uma aplicação web a partir de um design web já desenvolvido de um projeto para cadastrar ideias.
 
-![design gráfico](img/design-web.jpg)
+![Casa Criativa 1](img/design-web-1.jpg)
+![Casa Criativa 2](img/design-web-2.jpg)
+![Casa Criativa 3](img/design-web-3.jpg)
 
 ---
 
 #### WorkshopDev Especial | Episódio 1/5 
 
-- [ ] 1. Introdução à programação WEB
+- [x] 1. Introdução à programação WEB
 - [x] 1. 1. O que é programação ?
 - [x] 1. 1. 1. Ensinar o computador
 - [x] 1. 1. 1. 1. Algoritmo 
@@ -35,6 +37,8 @@ Desenvolver uma aplicação web a partir de um design web já desenvolvido de um
 - [x] 3. 3. 1. Html - Estrutura 
 - [x] 3. 3. 2. CSS - Estilização
 - [x] 3. 3. 3. Javascript - Regras de Negócio
+- [x] 2. Apresentação do projeto: casa criativa
+
 
 
 #### Comentários no decorrer da implementação
