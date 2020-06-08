@@ -4,13 +4,21 @@ Desenvolvimento Web
 
 #### Tarefas dessa Etapa 
 
-- [ ] Tarefa 1
-- [ ] Tarefa 2  
-- [ ] Tarefa 3  
-- [ ] Tarefa 4 
+- [ ] 1. Introdução à programação WEB
+- [ ] 1. 1. O que é programação
+- [ ] 1. 1. 1. Ensinar o computador
+- [ ] 1. 1. 1. 1. Algoritmo 
+- [ ] 1. 1. 1. 1. 1. Passo a passo
+- [ ] 1. 1. 1. 1. 2. Conjunto de regras
+- [ ] 1. 1. 1. 2. Lógica de Programação 
+- [ ] 1. 1. 1. 1. 1. Maneira de pensar 
+- [ ] 1. 1. 1. 1. Sintaxe
+- [ ] 1. 1. 1. 1. 1. Maneira correta de escrever
+- [ ] 1. 1. Ambiente de Desenvolvimento 
+- [ ] 1. 1. Front-End e Back-End 
 
 #### Comentários no decorrer da implementação
-1. A tarefa 1 é realizada melhor feita desta maneira.
+1. Configurando um ambiente para desenvolvimento web com vscode, gitbash, google chrome, windows explorer.
 
 ---
  
