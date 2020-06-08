@@ -1,5 +1,7 @@
 Desenvolvimento Web
 
+---
+
 #### Tarefas dessa Etapa 
 
 - [ ] Tarefa 1
@@ -9,6 +11,8 @@ Desenvolvimento Web
 
 #### Comentários no decorrer da implementação
 1. A tarefa 1 é realizada melhor feita desta maneira.
+
+---
  
 .: Por Douglas A B Novato - @douglasabnovato
 - De Mayk Brito[Canal no Youtube - Rocketseat](https://www.youtube.com/playlist?list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka)
