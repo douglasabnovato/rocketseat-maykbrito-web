@@ -2,7 +2,7 @@ Desenvolvimento Web
 
 ---
 
-#### Tarefas dessa Etapa 
+#### WorkshopDev Especial | Episódio 1/5 
 
 - [ ] 1. Introdução à programação WEB
 - [ ] 1. 1. O que é programação
