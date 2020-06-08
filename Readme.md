@@ -2,9 +2,9 @@
 
 Desenvolver uma aplicação web a partir de um design web já desenvolvido de um projeto para cadastrar ideias.
 
-![Casa Criativa 1](img/casa-criativa-1.jpg)
-![Casa Criativa 2](img/casa-criativa-2.jpg)
-![Casa Criativa 3](img/casa-criativa.jpg)
+- Início ![Casa Criativa 1](img/casa-criativa-1.jpg)
+- Nova Ideia ![Casa Criativa 2](img/casa-criativa-2.jpg)
+- Ideias ![Casa Criativa 3](img/casa-criativa.jpg)
 
 ---
 
@@ -38,8 +38,6 @@ Desenvolver uma aplicação web a partir de um design web já desenvolvido de um
 - [x] 3. 3. 2. CSS - Estilização
 - [x] 3. 3. 3. Javascript - Regras de Negócio
 - [x] 2. Apresentação do projeto: casa criativa
-
-
 
 #### Comentários no decorrer da implementação
 1. 
