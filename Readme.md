@@ -2,9 +2,9 @@
 
 Desenvolver uma aplicação web a partir de um design web já desenvolvido de um projeto para cadastrar ideias.
 
-![Casa Criativa 1](img/design-web-1.jpg)
-![Casa Criativa 2](img/design-web-2.jpg)
-![Casa Criativa 3](img/design-web-3.jpg)
+![Casa Criativa 1](img/casa-criativa-1.jpg)
+![Casa Criativa 2](img/casa-criativa-2.jpg)
+![Casa Criativa 3](img/casa-criativa-3.jpg)
 
 ---
 
