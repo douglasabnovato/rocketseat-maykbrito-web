@@ -41,6 +41,7 @@ Desenvolver uma aplicação web a partir de um design web já desenvolvido de um
 - [x] 3. 3. 2. CSS - Estilização
 - [x] 3. 3. 3. Javascript - Regras de Negócio
 - [x] 2. Apresentação do projeto: casa criativa
+- [ ] 3. Estruturar o HTML: index.html
 
 #### Comentários no decorrer da implementação
 1. Servidor Web do VSCode no plugin: Live Server. Botão direito no index.html `http://127.0.0.1:5500/index.html`
