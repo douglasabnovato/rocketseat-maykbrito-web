@@ -1,4 +1,8 @@
-Desenvolvimento Web
+Desenvolvimento Web<br/>
+
+Desenvolver uma aplicação web a partir de um design web já desenvolvido de um projeto para cadastrar ideias.
+
+![design gráfico](img/design-web.jpg)
 
 ---
 
