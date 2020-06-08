@@ -5,22 +5,30 @@ Desenvolvimento Web
 #### WorkshopDev Especial | Episódio 1/5 
 
 - [ ] 1. Introdução à programação WEB
-- [ ] 1. 1. O que é programação
-- [ ] 1. 1. 1. Ensinar o computador
-- [ ] 1. 1. 1. 1. Algoritmo 
-- [ ] 1. 1. 1. 1. 1. Passo a passo
-- [ ] 1. 1. 1. 1. 2. Conjunto de regras
-- [ ] 1. 1. 1. 2. Lógica de Programação 
-- [ ] 1. 1. 1. 1. 1. Maneira de pensar 
-- [ ] 1. 1. 1. 1. Sintaxe
-- [ ] 1. 1. 1. 1. 1. Maneira correta de escrever
-- [ ] 1. 1. Ambiente de Desenvolvimento 
-- [ ] 1. 1. Front-End e Back-End 
+- [x] 1. 1. O que é programação ?
+- [x] 1. 1. 1. Ensinar o computador
+- [x] 1. 1. 1. 1. Algoritmo 
+- [x] 1. 1. 1. 1. 1. Passo a passo
+- [x] 1. 1. 1. 1. 2. Conjunto de regras
+- [x] 1. 1. 1. 2. Lógica de Programação 
+- [x] 1. 1. 1. 2. 1. Maneira de pensar 
+- [x] 1. 1. 1. 3. Sintaxe
+- [x] 1. 1. 1. 3. 1. Maneira correta de escrever
+- [x] 1. 2. Qual linguagem de programação ?
+- [x] 1. 2. 1. Javascript
+- [x] 2. Ambiente de Desenvolvimento 
+- [x] 2. 1. Instalar o VSCode
+- [x] 2. 2. Instalar o Node.js - Versão LTS v12.18.0 - v13.2.0
+- [x] 2. 3. Instalar o Google Chrome
+- [ ] 3. Front-End e Back-End 
+- [ ] 3. 1. Imagina que ...
+- [ ] 3. 2. Como é feita a comunicação ?
+- [ ] 3. 3. Tecnologias 
 
 #### Comentários no decorrer da implementação
-1. Configurando um ambiente para desenvolvimento web com vscode, gitbash, google chrome, windows explorer.
+1. 
 
 ---
  
 .: Por Douglas A B Novato - @douglasabnovato
-- De Mayk Brito[Canal no Youtube - Rocketseat](https://www.youtube.com/playlist?list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka)
+- De Mayk Brito [Canal no Youtube - Rocketseat](https://www.youtube.com/playlist?list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka)
