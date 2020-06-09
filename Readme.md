@@ -40,11 +40,15 @@ Desenvolver uma aplicação web a partir de um design web já desenvolvido de um
 - [x] 3. 3. 1. Html - Estrutura 
 - [x] 3. 3. 2. CSS - Estilização
 - [x] 3. 3. 3. Javascript - Regras de Negócio
-- [x] 2. Apresentação do projeto: casa criativa
-- [x] 3. Estrutura do HTML: index.html
-- [x] 3. 1. Estruturar os Elementos básicos do HTML
-- [x] 3. 2. Emoji: `https://www.piliapp.com/facebook-symbols/`
-- [x] 3. 3. CSS no HTML: Cascading StyleSheet
+- [x] 4. Apresentação do projeto: casa criativa
+- [x] 5. Estrutura do HTML: index.html
+- [x] 5. 1. Estruturar os Elementos básicos do HTML
+- [x] 5. 2. Emoji: `https://www.piliapp.com/facebook-symbols/`
+- [x] 5. 3. CSS no HTML: Cascading StyleSheet
+
+#### WorkshopDev Especial | Episódio 2/5 
+
+- [ ] 1. Tarefa 2.1
 
 #### Comentários no decorrer da implementação
 1. Servidor Web do VSCode no plugin: Live Server. Botão direito no index.html `http://127.0.0.1:5500/index.html`
