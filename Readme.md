@@ -48,7 +48,7 @@ Desenvolver uma aplicação web a partir de um design web já desenvolvido de um
 
 #### WorkshopDev Especial | Episódio 2/5 
 
-- [ ] 1. Tarefa 2.1
+- [ ] 2. Tarefa 2.1
 
 #### Comentários no decorrer da implementação
 1. Servidor Web do VSCode no plugin: Live Server. Botão direito no index.html `http://127.0.0.1:5500/index.html`
