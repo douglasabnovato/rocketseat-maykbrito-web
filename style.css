@@ -2,6 +2,20 @@ body{
     background: #e5e5e5;
     color: #25282B;
     margin: 0;
+} 
+
+.hide{
+    display: none;
+}
+
+a{
+    color:#ff5e84;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover{ 
+    text-decoration: underline;
 }
 
 #container{
@@ -46,20 +60,13 @@ button.fat{
     width: 150px;
     height: 40px;
     border-radius: 6px;
-    box-shadow: 0px 8px 16px rgba(255,0,92,0.16);
+    box-shadow: #ff5E8432
 }
+
 button.fat:hover{
     text-decoration: none;
 }
+
 footer{
     text-align: center;    
-}
-
-footer a{
-    color:#25282B;
-    text-decoration: none;
-}
-
-.hide{
-    display: none;
 }
