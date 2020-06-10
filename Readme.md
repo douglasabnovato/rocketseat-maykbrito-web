@@ -49,6 +49,11 @@ Desenvolver uma aplicação web a partir de um design web já desenvolvido de um
 #### WorkshopDev Especial | Episódio 2/5 
 
 - [ ] 2. Refatorar código
+- [ ] 2. 1. Box - Conteúdo de Caixa
+- [ ] 2. 1. 2. Espaçamentos
+- [ ] 2. 1. 3. Bordas
+- [ ] 2. 1. 4. Preenchimento
+- [ ] 2. 2. Posicionamento
 
 #### Comentários no decorrer da implementação
 1. Servidor Web do VSCode no plugin: Live Server. Botão direito no index.html `http://127.0.0.1:5500/index.html`
