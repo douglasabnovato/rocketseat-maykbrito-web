@@ -49,18 +49,18 @@ Desenvolver uma aplicação web a partir de um design web já desenvolvido de um
 #### WorkshopDev Especial | Episódio 2/5 
 
 - [ ] 2. Refatorar código
-- [ ] 2. 1. Box - Conteúdo de Caixa
-- [ ] 2. 1. 2. Espaçamentos
-- [ ] 2. 1. 3. Bordas
-- [ ] 2. 1. 4. Preenchimento
-- [ ] 2. 1. 5. Largura
-- [ ] 2. 1. 6. Altura
-- [ ] 2. 2. Posicionamento
+- [x] 2. 1. Box - Conteúdo de Caixa
+- [x] 2. 1. 2. Espaçamentos
+- [x] 2. 1. 3. Bordas
+- [x] 2. 1. 4. Preenchimento
+- [x] 2. 1. 5. Largura
+- [x] 2. 1. 6. Altura
+- [x] 2. 2. Posicionamento
 
 #### Comentários no decorrer da implementação
 1. Servidor Web do VSCode no plugin: Live Server. Botão direito no index.html `http://127.0.0.1:5500/index.html`
 2. Icons: `https://www.flaticon.com/packs/stay-at-home-13` 
-3. PAREI EM 42:35
+3. 
 
 ---
  
