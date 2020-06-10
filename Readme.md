@@ -53,6 +53,8 @@ Desenvolver uma aplicação web a partir de um design web já desenvolvido de um
 - [ ] 2. 1. 2. Espaçamentos
 - [ ] 2. 1. 3. Bordas
 - [ ] 2. 1. 4. Preenchimento
+- [ ] 2. 1. 5. Largura
+- [ ] 2. 1. 6. Altura
 - [ ] 2. 2. Posicionamento
 
 #### Comentários no decorrer da implementação
