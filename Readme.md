@@ -60,7 +60,7 @@ Desenvolver uma aplicação web a partir de um design web já desenvolvido de um
 #### Comentários no decorrer da implementação
 1. Servidor Web do VSCode no plugin: Live Server. Botão direito no index.html `http://127.0.0.1:5500/index.html`
 2. Icons: `https://www.flaticon.com/packs/stay-at-home-13` 
-3. 
+3. Fonts: `https://fonts.google.com/` 
 
 ---
  
