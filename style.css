@@ -172,6 +172,18 @@ form label{
     letter-spacing: 0.8px;
 }
 
+form a {
+    width: 150px;
+    height: 40px;
+
+    background-color: #ffffff22;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 form button{
     background: white;
     width: 150px;
@@ -190,5 +202,5 @@ form button:hover{
 }
 
 #modal.hide{
-    display: none;
+    /*display: none;*/
 }
