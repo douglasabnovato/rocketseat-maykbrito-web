@@ -64,7 +64,10 @@ Desenvolver uma aplicação para cadastrar ideias.
 
 - [x] 3. Página Ideias
 - [x] 3.1. Estrutura HTML
-- [ ] 3.2. Estilização CSS
+- [x] 3.2. Estilização CSS
+- [x] 3.2.1. mesmo arquivo style, com id page-ideas
+- [x] 3.2.2. css menu: #page-ideas header nav li a
+- [ ] 3.2.3. css sessão de ideias: #page-ideas section #title p h1
 
 ####  Backend Web 
 
