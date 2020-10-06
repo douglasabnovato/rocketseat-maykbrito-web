@@ -49,13 +49,15 @@ Desenvolver uma aplicação para cadastrar ideias.
 #### WorkshopDev Especial | Episódio 2/5 
 
 - [x] 2. Estilização do formulário de nova ideia
-- [x] 2. 1. Box - Conteúdo de Caixa
-- [x] 2. 1. 2. Espaçamentos
-- [x] 2. 1. 3. Bordas
-- [x] 2. 1. 4. Preenchimento
-- [x] 2. 1. 5. Largura
-- [x] 2. 1. 6. Altura
-- [x] 2. 2. Posicionamento
+- [x] 2. 1. Box 
+- [x] 2. 1. 1. Largura
+- [x] 2. 1. 2. Altura
+- [x] 2. 1. 3. Conteúdo de Caixa
+- [x] 2. 1. 4. Espaçamentos
+- [x] 2. 1. 5. Preenchimento
+- [x] 2. 1. 6. Bordas
+- [x] 2. 1. 7. Posicionamento
+- [x] 2. 2. Cores e Fontes
 - [x] 2. 3. Refatorando detalhes da estilização
 
 #### Comentários no decorrer da implementação
