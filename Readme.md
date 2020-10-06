@@ -1,6 +1,6 @@
 ### Casa Criativa
 
-Desenvolver uma aplicação web a partir de um design web já desenvolvido de um projeto para cadastrar ideias.
+Desenvolver uma aplicação para cadastrar ideias.
 
 - Início<br/> 
 ![Casa Criativa 1](img/casa-criativa-1.jpg)
