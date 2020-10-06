@@ -11,7 +11,7 @@ Desenvolver uma aplicação para cadastrar ideias.
 
 ---
 
-#### WorkshopDev Especial | Episódio 1/5 
+#### Frontend Web - Página Home 
 
 - [x] 1. Introdução à programação WEB
 - [x] 1. 1. O que é programação ?
@@ -46,7 +46,7 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 5. 2. Emoji: `https://www.piliapp.com/facebook-symbols/`
 - [x] 5. 3. CSS no HTML: Cascading StyleSheet
 
-#### WorkshopDev Especial | Episódio 2/5 
+####  Frontend Web - Página Nova Ideia  
 
 - [x] 2. Estilização do formulário de nova ideia
 - [x] 2. 1. Box 
@@ -59,6 +59,16 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 2. 1. 7. Posicionamento
 - [x] 2. 2. Cores e Fontes
 - [x] 2. 3. Refatorando detalhes da estilização
+
+####  Frontend Web - Página Ideias  
+
+- [x] 3. Página Ideias
+- [x] 3.1. Estrutura HTML
+- [ ] 3.2. Estilização CSS
+
+####  Backend Web 
+
+####  Funcionalidades Avançadas
 
 #### Comentários no decorrer da implementação
 1. Servidor Web do VSCode no plugin: Live Server. Botão direito no index.html `http://127.0.0.1:5500/index.html`
