@@ -3,4 +3,4 @@ function onOff(){
         .querySelector("#modal")
         .classList
         .toggle("hide")
-}    
+}       
