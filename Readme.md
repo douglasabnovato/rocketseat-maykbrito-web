@@ -48,7 +48,7 @@ Desenvolver uma aplicação para cadastrar ideias.
 
 #### WorkshopDev Especial | Episódio 2/5 
 
-- [ ] 2. Refatorar código
+- [x] 2. Estilização do formulário de nova ideia
 - [x] 2. 1. Box - Conteúdo de Caixa
 - [x] 2. 1. 2. Espaçamentos
 - [x] 2. 1. 3. Bordas
@@ -56,6 +56,7 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 2. 1. 5. Largura
 - [x] 2. 1. 6. Altura
 - [x] 2. 2. Posicionamento
+- [x] 2. 3. Refatorando detalhes da estilização
 
 #### Comentários no decorrer da implementação
 1. Servidor Web do VSCode no plugin: Live Server. Botão direito no index.html `http://127.0.0.1:5500/index.html`
