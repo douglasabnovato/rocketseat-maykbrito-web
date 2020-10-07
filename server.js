@@ -1,1 +1,4 @@
-console.log("executando pelo npm")
+const express = require("express");
+const server = express();
+
+console.log(server);

@@ -84,11 +84,10 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 4.2.1. Nodejs
 - [x] 4.2.2. BD
 - [x] 4.3. Servidor
-- [x] 4.3.1. criar servidor 
-- [x] 4.3.2. server.js
-- [x] 4.3.3. npm init -y
-- [x] 4.3.4. configurar o servidor
-- [x] 4.3.4.1. instalar o express
+- [x] 4.3.1. criar servidor: server.js 
+- [x] 4.3.2. npm init -y
+- [x] 4.3.3. configurar o servidor 
+- [x] 4.3.4.1. instalar o express: 4.17.1
 
 ####  Funcionalidades Avançadas
 
