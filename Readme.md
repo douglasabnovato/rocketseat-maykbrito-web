@@ -70,6 +70,7 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 3.2.3. css sessão de ideias: #page-ideas section #title p h1
 - [x] 3.2.4. refatorando css scroll 
 - [x] 3.2.5. refatorando tamanho da página nova ideia
+- [x] 3.2.6. refatorando detalhes
 
 ####  Backend Web 
 
