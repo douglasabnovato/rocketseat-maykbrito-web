@@ -87,7 +87,9 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 4.3.1. criar servidor: server.js 
 - [x] 4.3.2. npm init -y
 - [x] 4.3.3. configurar o servidor 
-- [x] 4.3.4.1. instalar o express: 4.17.1
+- [x] 4.3.4.1. instalar o express - 4.17.1 - npm install express
+- [x] 4.3.4.2. nodemon - reiniciar servidor automaticamente - `npm install nodemon` - v1.18.11
+- [x] 4.3.5. Estrutura de pastas
 
 ####  Funcionalidades Avançadas
 
