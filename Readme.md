@@ -84,7 +84,8 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 4.2.1. Nodejs
 - [x] 4.2.2. BD
 - [x] 4.3. Servidor
-- [ ] 4.3.1. criar servidor 
+- [x] 4.3.1. criar servidor 
+- [x] 4.3.2. server.js
 
 ####  Funcionalidades Avançadas
 
