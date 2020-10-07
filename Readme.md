@@ -3,11 +3,11 @@
 Desenvolver uma aplicação para cadastrar ideias.
 
 - Início<br/> 
-![Casa Criativa 1](frontend/img/casa-criativa-1.jpg)
+![Casa Criativa 1](public/img/casa-criativa-1.jpg)
 - Nova Ideia<br/>
-![Casa Criativa 2](frontend/img/casa-criativa-2.jpg)
+![Casa Criativa 2](public/img/casa-criativa-2.jpg)
 - Ideias<br/>
-![Casa Criativa 3](frontend/img/casa-criativa.jpg)
+![Casa Criativa 3](public/img/casa-criativa.jpg)
 
 ---
 
@@ -86,6 +86,9 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 4.3. Servidor
 - [x] 4.3.1. criar servidor 
 - [x] 4.3.2. server.js
+- [x] 4.3.3. npm init -y
+- [x] 4.3.4. configurar o servidor
+- [x] 4.3.4.1. instalar o express
 
 ####  Funcionalidades Avançadas
 
