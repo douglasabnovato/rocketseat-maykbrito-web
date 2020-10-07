@@ -74,17 +74,19 @@ Desenvolver uma aplicação para cadastrar ideias.
 
 ####  Backend 
 
-- [ ] 4. Backend
-- [ ] 4.1. Responsabilidades
-- [ ] 4.1.1. receber pedidos do cliente
-- [ ] 4.1.2. devolver respostas para o cliente
-- [ ] 4.1.3. regras de negócio
-- [ ] 4.1.4. dados
+- [x] 4. Backend
+- [x] 4.1. Responsabilidades
+- [x] 4.1.1. receber pedidos do cliente
+- [x] 4.1.2. devolver respostas para o cliente
+- [x] 4.1.3. regras de negócio
+- [x] 4.1.4. dados
 - [ ] 4.2. Tecnologias
 - [ ] 4.2.1. Nodejs
 - [ ] 4.2.2. BD
 
 ####  Funcionalidades Avançadas
+
+---
 
 #### Comentários no decorrer da implementação
 1. Servidor Web do VSCode no plugin: Live Server. Botão direito no index.html `http://127.0.0.1:5500/index.html`
