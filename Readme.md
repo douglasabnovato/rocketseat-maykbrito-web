@@ -80,9 +80,11 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 4.1.2. devolver respostas para o cliente
 - [x] 4.1.3. regras de negócio
 - [x] 4.1.4. dados
-- [ ] 4.2. Tecnologias
-- [ ] 4.2.1. Nodejs
-- [ ] 4.2.2. BD
+- [x] 4.2. Tecnologias
+- [x] 4.2.1. Nodejs
+- [x] 4.2.2. BD
+- [x] 4.3. Servidor
+- [ ] 4.3.1. criar servidor 
 
 ####  Funcionalidades Avançadas
 
