@@ -3,11 +3,11 @@
 Desenvolver uma aplicação para cadastrar ideias.
 
 - Início<br/> 
-![Casa Criativa 1](img/casa-criativa-1.jpg)
+![Casa Criativa 1](frontend/img/casa-criativa-1.jpg)
 - Nova Ideia<br/>
-![Casa Criativa 2](img/casa-criativa-2.jpg)
+![Casa Criativa 2](frontend/img/casa-criativa-2.jpg)
 - Ideias<br/>
-![Casa Criativa 3](img/casa-criativa.jpg)
+![Casa Criativa 3](frontend/img/casa-criativa.jpg)
 
 ---
 
@@ -72,7 +72,17 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 3.2.5. refatorando tamanho da página nova ideia
 - [x] 3.2.6. refatorando detalhes
 
-####  Backend Web 
+####  Backend 
+
+- [ ] 4. Backend
+- [ ] 4.1. Responsabilidades
+- [ ] 4.1.1. receber pedidos do cliente
+- [ ] 4.1.2. devolver respostas para o cliente
+- [ ] 4.1.3. regras de negócio
+- [ ] 4.1.4. dados
+- [ ] 4.2. Tecnologias
+- [ ] 4.2.1. Nodejs
+- [ ] 4.2.2. BD
 
 ####  Funcionalidades Avançadas
 
