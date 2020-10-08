@@ -94,6 +94,9 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 4.3.6.1. configurar nunjucks
 - [x] 4.4. bug de estilização do formulário de nova ideia
 - [x] 4.4.1. em telas maiores, corta os botões 
+- [x] 4.5. exibir os dados dinamicamente
+- [x] 4.5.1. página home
+- [ ] 4.5.2. página ideas
 
 ####  Funcionalidades Avançadas
 
