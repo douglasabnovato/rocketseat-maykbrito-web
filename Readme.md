@@ -103,6 +103,7 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 4.6.1. reduzir a repetição de código com nunjucks
 - [x] 4.6.2. modal.html
 - [x] 4.6.3. allIdeas.html
+- [x] 4.6.4. layout.html
 
 ####  Funcionalidades Avançadas
 
