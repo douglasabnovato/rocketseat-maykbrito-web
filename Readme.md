@@ -99,6 +99,10 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 4.5.1.2. exibindo a mais recente adicionada
 - [x] 4.5.2. página ideas
 - [x] 4.5.2.2. exibindo a mais recente adicionada
+- [x] 4.6. Refatorar código
+- [x] 4.6.1. reduzir a repetição de código com nunjucks
+- [x] 4.6.2. modal.html
+- [x] 4.6.3. allIdeas.html
 
 ####  Funcionalidades Avançadas
 
