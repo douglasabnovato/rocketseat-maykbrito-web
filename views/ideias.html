@@ -27,63 +27,19 @@
     
             <main>
                 <section id="ideas">
-    
-                    <div class="idea">
-                        <img 
-                            src="https://image.flaticon.com/icons/svg/2729/2729007.svg" 
-                            alt="Imagem de curso de programação">
-                        <div class="content">
-                            <h3>Cursos de Programação</h3>
-                            <p>Estudo</p>
-                            <div class="description">
-                                Amet consectetur adipisicing elit. Praesentium, reiciendis numquam. Soluta alias enim porro molestiae. Quaerat necessitatibus voluptatem asperiores possimus, velit dicta, rerum sit vitae, ad exercitationem saepe similique?
+                        {% for idea in ideas %}
+                            <div class="idea">
+                                <img 
+                                    src="{{idea.img}}" 
+                                    alt="Imagem de {{idea.title}}">
+                                <div class="content">
+                                    <h3>{{idea.title}}</h3>
+                                    <p>{{idea.category}}</p>
+                                    <div class="description">{{idea.description}}</div>
+                                    <a href="{{idea.url}}" target="_blank">Ir para a ideia</a>
+                                </div>
                             </div>
-                            <a href="#">Ir para a ideia</a>
-                        </div>
-                    </div>
-    
-                    <div class="idea">
-                        <img 
-                            src="https://image.flaticon.com/icons/svg/2729/2729005.svg" 
-                            alt="Imagem de exercício físico">
-                        <div class="content">
-                            <h3>Exercícios Físicos</h3>
-                            <p>Saúde Física</p>
-                            <div class="description">
-                                Lorem ipsum dolor sit, praesentium, reiciendis numquam. Soluta alias enim porro molestiae. Quaerat necessitatibus voluptatem asperiores possimus, velit dicta, rerum sit vitae, ad exercitationem saepe similique?
-                            </div>
-                            <a href="#">Ir para a ideia</a>
-                        </div>
-                    </div>
-    
-                    <div class="idea">
-                        <img 
-                            src="https://image.flaticon.com/icons/svg/2729/2729027.svg" 
-                            alt="Imagem de Meditação">
-                        <div class="content">
-                            <h3>Meditação</h3>
-                            <p>Saúde Mental</p>
-                            <div class="description">
-                                Lorem ipsum sit, adipisicing elit. Praesentium, numquam. Soluta alias enim porro molestiae. Quaerat necessitatibus voluptatem asperiores possimus, velit dicta, rerum sit vitae, ad exercitationem saepe similique?
-                            </div>
-                            <a href="#">Ir para a ideia</a>
-                        </div>
-                    </div>
-
-                    <div class="idea">
-                        <img 
-                            src="https://www.flaticon.com/svg/static/icons/svg/2729/2729013.svg" 
-                            alt="Imagem de Meditação">
-                        <div class="content">
-                            <h3>Alimentação</h3>
-                            <p>Alimentar-se BEM</p>
-                            <div class="description">
-                                Lorem ipsum sit, adipisicing elit. Praesentium, numquam. Soluta alias enim porro molestiae. Quaerat necessitatibus voluptatem asperiores possimus, velit dicta, rerum sit vitae, ad exercitationem saepe similique?
-                            </div>
-                            <a href="#">Ir para a ideia</a>
-                        </div>
-                    </div>
-    
+                        {% endfor %}
                 </section>
             </main>
     
