@@ -3,16 +3,22 @@ const express = require("express");
 const server = express();
 
 //configurar estrutura de arquivos
-server.use(express.static("public"))
+server.use(express.static("public"));
+
+//configurar nunjucks
+const nunjucks = require("nunjucks");
+nunjucks.configure("views",{
+    express: server,
+})
 
 //criar rota início como /
 server.get("/", function(req, res){
-    return res.sendFile(__dirname + "/index.html");
+    return res.render("index.html");
 })
 
 //criar rota ideias como /ideias
 server.get("/ideias", function(req, res){
-    return res.sendFile(__dirname + "/ideias.html");
+    return res.render("ideias.html");
 })
 
 //servidor na porta 3000

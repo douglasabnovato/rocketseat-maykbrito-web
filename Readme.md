@@ -90,6 +90,10 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 4.3.4.1. instalar o express - 4.17.1 - npm install express
 - [x] 4.3.4.2. nodemon - reiniciar servidor automaticamente - `npm install nodemon` - v1.18.11
 - [x] 4.3.5. Rotas
+- [x] 4.3.6. Nunjucks: npm i nunjucks
+- [x] 4.3.6.1. configurar nunjucks
+- [x] 4.4. bug de estilização do formulário de nova ideia
+- [x] 4.4.1. em telas maiores, corta os botões 
 
 ####  Funcionalidades Avançadas
 
