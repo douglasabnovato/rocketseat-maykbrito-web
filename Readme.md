@@ -83,7 +83,7 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 4.2. Tecnologias
 - [x] 4.2.1. Nodejs
 - [x] 4.2.2. BD
-- [x] 4.3. Servidor
+- [x] 4.3. Servidor [Backend]
 - [x] 4.3.1. criar servidor: server.js 
 - [x] 4.3.2. npm init -y
 - [x] 4.3.3. configurar o servidor 
@@ -105,7 +105,24 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 4.6.3. allIdeas.html
 - [x] 4.6.4. layout.html
 
-####  Funcionalidades Avançadas
+####  Banco de Dados
+
+- [x] 5. Banco de dados
+- [x] 5.1. Porque criar um db para a aplicação ?
+- [x] 5.1.1. dados não podem ficar na aplicação
+- [x] 5.1.2. perder ou corromper
+- [x] 5.1.3. segurança
+- [x] 5.1.4. responsabilidades
+- [x] 5.2. SQL
+- [x] 5.2.1. structured query language 
+- [x] 5.2.2. linguagem para consultar, criar, atualizar, listar, deletar, ...
+- [x] 5.2.3. tabelas/entidades/relações - colunas e linhas
+- [x] 5.3. Tecnologias 
+- [x] 5.3.1. SQLite
+- [x] 5.3.1.1. open source
+- [x] 5.3.1.2. fácil configuração de ambiente
+- [x] 5.3.1.3. db relacional 
+- [x] 5.3.1.4. ótima opção para iniciar as ações com sql
 
 ---
 
