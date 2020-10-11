@@ -130,8 +130,8 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 5.4.3.1.1. create
 - [x] 5.4.3.1.2. executar `node db.js`
 - [x] 5.4.3.1.3. criado `ws.db`
-- [ ] 5.4.3.2. insert
-- [ ] 5.4.3.3. select
+- [x] 5.4.3.2. insert  
+- [x] 5.4.3.3. select
 - [ ] 5.4.3.4. delete
 
 ---

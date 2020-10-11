@@ -33,9 +33,16 @@ db.serialize(function(){
         "https://rocketseat.com.br"
     ];
 
-    db.run(query, values, );
+    db.run(query, values, function(err){
+        if(err) return console.log(err);
+        console.log(this);
+    });
 
     //consultar dado na tabela 
+    db.all(`SELECT * FROM ideas`, function(err, rows){
+        if(err) return console.log(err)
+        console.log(rows)
+    });
 
     //deletar dado na tabela
 
