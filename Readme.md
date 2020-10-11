@@ -123,6 +123,16 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 5.3.1.2. fácil configuração de ambiente
 - [x] 5.3.1.3. db relacional 
 - [x] 5.3.1.4. ótima opção para iniciar as ações com sql
+- [x] 5.4. Instalar o SQLite3
+- [x] 5.4.1. npm install sqlite3
+- [x] 5.4.2. `db.js`: configurações do banco de dados
+- [x] 5.4.3. CRUD
+- [x] 5.4.3.1.1. create
+- [x] 5.4.3.1.2. executar `node db.js`
+- [x] 5.4.3.1.3. criado `ws.db`
+- [ ] 5.4.3.2. insert
+- [ ] 5.4.3.3. select
+- [ ] 5.4.3.4. delete
 
 ---
 
