@@ -47,7 +47,7 @@ const nunjucks = require("nunjucks");
 nunjucks.configure("views",{
     express: server,
     noCache: true,
-})
+})  
 
 //criar rota início como /
 server.get("/", function(req, res){
@@ -81,7 +81,36 @@ server.get("/ideias", function(req, res){
 })
 
 server.post("/", function(req, res){
-    console.log(req.body)
+    //trecho do insert
+    const query = `
+        INSERT INTO ideas(
+            image,
+            title,
+            category,
+            description,
+            link
+        )VALUES(?,?,?,?,?);
+    `;
+    
+    //trecho do insert
+    const values = [ 
+        req.body.image,
+        req.body.title,
+        req.body.category,
+        req.body.description,
+        req.body.link,
+    ];
+    
+    //inserir dado na tabela
+    db.run(query, values, function(err){
+        if(err) {
+            console.log(err)
+            return res.send("Erro no db");
+        } 
+        
+        //depois de conseguir cadastrar, redirecionar a página
+        return res.redirect("/ideias")
+    }); 
 })
 
 //servidor na porta 3000
