@@ -49,7 +49,10 @@ nunjucks.configure("views",{
 //criar rota início como /
 server.get("/", function(req, res){
     db.all(`SELECT * FROM ideas`, function(err, rows){
-        if(err) return console.log(err)
+        if(err) {
+            console.log(err)
+            return res.send("Erro no db");
+        }
         const reversedIdeas = [...rows].reverse();
         let lastIdeas = [];
         for(let idea of reversedIdeas){
@@ -63,8 +66,15 @@ server.get("/", function(req, res){
 
 //criar rota ideias como /ideias
 server.get("/ideias", function(req, res){
-    const reversedIdeas = [...ideas].reverse();
-    return res.render("ideias.html", { ideas: reversedIdeas } );
+    db.all(`SELECT * FROM ideas`, function(err, rows){
+        if(err) {
+            console.log(err)
+            return res.send("Erro no db");
+        }
+        const reversedIdeas = [...rows].reverse();
+        return res.render("ideias.html", { ideas: reversedIdeas } );
+    })
+    
 })
 
 //servidor na porta 3000
