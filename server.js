@@ -4,6 +4,7 @@ const server = express();
 
 const db = require("./db");
 
+/*
 //coleção de dados
 const ideas = [
     {
@@ -34,7 +35,7 @@ const ideas = [
         description: "Lorem ipsum sit, adipisicing elit.",
         url: "https://rocketseat.com.br"
     }
-]
+]*/
 
 //configurar estrutura de arquivos
 server.use(express.static("public"));
@@ -107,7 +108,7 @@ server.post("/", function(req, res){
             console.log(err)
             return res.send("Erro no db");
         } 
-        
+
         //depois de conseguir cadastrar, redirecionar a página
         return res.redirect("/ideias")
     }); 

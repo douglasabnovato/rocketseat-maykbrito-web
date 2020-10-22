@@ -141,7 +141,8 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 5.5.3. Nova Idea: cadastrar nova ideia no banco de dados
 - [x] 5.5.3.1. Pegar as informações inseridas no formulário de nova ideia
 - [x] 5.5.3.2. Salvando no db
-- [ ] 5.5.4. Validar para não salvar com o formulário vazio
+- [ ] 5.5.4. Validação no front-end para 
+- [ ] 5.5.4.1. não permitir criar nova idéia com o formulário vazio
 
 ---
 
