@@ -13,6 +13,7 @@ Desenvolver uma aplicação para cadastrar ideias.
 
 #### Frontend Web - Página Home 
 
+- [x] 0. Rodar a aplicação: `npm run dev` 
 - [x] 1. Introdução à programação WEB
 - [x] 1. 1. O que é programação ?
 - [x] 1. 1. 1. Ensinar o computador
