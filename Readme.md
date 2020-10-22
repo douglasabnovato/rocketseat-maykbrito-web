@@ -134,6 +134,9 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 5.4.3.2. insert:`node db.js` 
 - [x] 5.4.3.3. select:`node db.js`
 - [x] 5.4.3.4. delete:`node db.js`
+- [ ] 5.5. Integrar o db com nossa aplicação
+- [x] 5.5.1. warning: imagens sumiram 
+- [x] 5.5.1.1. solução: no arquivo allideas.html, os formatos dos arquivos devem bater com os tipos criados no banco de dados.
 
 ---
 

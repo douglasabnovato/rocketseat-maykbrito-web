@@ -2,6 +2,8 @@
 const express = require("express");
 const server = express();
 
+const db = require("./db");
+
 //coleção de dados
 const ideas = [
     {
@@ -46,14 +48,17 @@ nunjucks.configure("views",{
 
 //criar rota início como /
 server.get("/", function(req, res){
-    const reversedIdeas = [...ideas].reverse();
-    let lastIdeas = [];
-    for(let idea of reversedIdeas){
-        if(lastIdeas.length < 2){
-            lastIdeas.push(idea);
+    db.all(`SELECT * FROM ideas`, function(err, rows){
+        if(err) return console.log(err)
+        const reversedIdeas = [...rows].reverse();
+        let lastIdeas = [];
+        for(let idea of reversedIdeas){
+            if(lastIdeas.length < 2){
+                lastIdeas.push(idea);
+            }
         }
-    }
-    return res.render("index.html", { ideas: lastIdeas });
+        return res.render("index.html", { ideas: lastIdeas });
+    });
 })
 
 //criar rota ideias como /ideias

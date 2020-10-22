@@ -51,9 +51,13 @@ db.serialize(function(){
     });
     */
 
+    /*
     //consultar dado na tabela 
     db.all(`SELECT * FROM ideas`, function(err, rows){
         if(err) return console.log(err)
         console.log(rows)
     }); 
+    */
 })
+
+module.exports = db
