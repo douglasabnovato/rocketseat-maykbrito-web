@@ -39,6 +39,9 @@ const ideas = [
 //configurar estrutura de arquivos
 server.use(express.static("public"));
 
+//habilitar o uso do req.body
+server.use(express.urlencoded({ extended: true }))
+
 //configurar nunjucks
 const nunjucks = require("nunjucks");
 nunjucks.configure("views",{
@@ -75,6 +78,10 @@ server.get("/ideias", function(req, res){
         return res.render("ideias.html", { ideas: reversedIdeas } );
     })
     
+})
+
+server.post("/", function(req, res){
+    console.log(req.body)
 })
 
 //servidor na porta 3000

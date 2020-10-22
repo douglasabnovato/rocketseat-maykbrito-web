@@ -139,7 +139,7 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 5.5.1.1. solução: no arquivo allideas.html, os formatos dos arquivos devem bater com os tipos criados no banco de dados.
 - [x] 5.5.2. Exibir mensagem de erro
 - [ ] 5.5.3. Nova Idea: cadastrar nova ideia no banco de dados
-
+- [ ] 5.5.4. Pegar as informações inseridas no formulário de nova ideia
 ---
 
 #### Comentários no decorrer da implementação
