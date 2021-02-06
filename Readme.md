@@ -117,9 +117,9 @@ Desenvolver uma aplicação para cadastrar ideias.
 - [x] 4.5.2.2. exibindo a mais recente adicionada
 - [x] 4.6. Refatorar código
 - [x] 4.6.1. reduzir a repetição de código com nunjucks
-- [x] 4.6.2. modal.html
-- [x] 4.6.3. allIdeas.html
-- [x] 4.6.4. layout.html
+- [x] 4.6.2. `modal.html`
+- [x] 4.6.3. `allIdeas.html`
+- [x] 4.6.4. `layout.html`
 
 ####  Banco de Dados
 
@@ -192,7 +192,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🚀 Como executar o projeto
 
 Podemos considerar este projeto como sendo com uma parte:
-1. Front End (pasta web)  
+1. Front End   
+2. Back End
+3. Banco de Dados
 
 ### Pré-requisitos
 
@@ -213,7 +215,7 @@ $ cd casa-criativa
 $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm start
+$ npm run dev
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
